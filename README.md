@@ -1,48 +1,81 @@
-# Hi there! I'm Samudra Mukhar Goswami 👋
+\# Hi there! I'm Samudra Mukhar Goswami 👋
 
-## About Me
+\## About Me
 
-I'm an **aspiring Data Scientist & AI Developer** passionate about **machine learning, analytics, and system design**. My work revolves around building **scalable AI applications**, optimizing **data pipelines**, and integrating **cutting-edge AI techniques** into real-world projects.
+I'm an \*\*aspiring Data Scientist & AI Developer\*\* passionate about \*\*machine learning, scalable backend systems\*\*, and \*\*practical AI deployment\*\*. My work focuses on designing \*\*efficient data pipelines\*\*, deploying \*\*containerized microservices\*\*, and integrating \*\*advanced AI techniques\*\* into usable applications.
 
-### 🔹 Core Expertise:
+\### 🔹 Core Expertise:
 
-- **Machine Learning & Deep Learning** (TensorFlow, PyTorch, Scikit-Learn)
-- **Data Analysis & Visualization** (Pandas, NumPy, Power BI, Tableau)
-- **Databases & Backend Development** (PostgreSQL, FastAPI, Redis, Docker)
-- **Software Development & Optimization** (Python, C++, Git, CI/CD)
+\- \*\*Machine Learning & Deep Learning\*\* (TensorFlow, PyTorch, Scikit-Learn, Transformers)
 
----
+\- \*\*Data Analysis & Visualization\*\* (Pandas, NumPy, Power BI, Tableau)
 
-## 💻 Projects
+\- \*\*Backend Engineering\*\* (Go, FastAPI, PostgreSQL, Redis, gRPC, Docker, AWS)
 
-### 🔹 **Stock Prediction Web App** 📈
+\- \*\*Modern DevOps\*\* (Git, CI/CD, Containerization, PASETO, Secure API Design)
 
-- Built an **LSTM-based stock prediction model** achieving **95%+ accuracy**
-- Integrated **C++ trading logic** with Python using **Cython**
-- Developed a **Power BI dashboard** for real-time stock analysis
+\---
 
-### 🔹 **Advanced Movie Recommendation System** 🎬 (In progress...)
+\## 💻 Projects
 
-- Multi-modal AI approach: **NLP (Sentiment Analysis) + Computer Vision (Poster Similarity)**
-- Built using **FastAPI, PostgreSQL, Redis**, and **Transformers (BERT)**
-- Containerized with **Docker**, designed for **scalability and modularity**
+\### 🔹 \*\*Stock Prediction Microservice\*\* 📈
 
-📌 *Check out my repositories for more exciting projects!*
+\- Refactored into a clean \*\*microservice architecture\*\* with \*\*FastAPI\*\*, \*\*Go\*\*, \*\*Docker\*\*, \*\*Streamlit\*\*
 
----
+\- Predicts stock prices using an \*\*LSTM model\*\*, fully containerized and tested
 
-## 📌 What I'm Currently Working On
+\- Easy to run, with CI/CD and clear documentation
 
-🔹 **Refactoring my backend for scalability** – moving towards **microservices architecture** in future\
-🔹 **Mastering NLP & Transformers** – working on **text-based AI models**
+\### 🔹 \*\*Advanced Movie Recommendation System\*\* 🎬 (Prototype Complete ✅)
 
----
+\- Hybrid AI: \*\*NLP sentiment analysis + Poster Similarity (CNN)\*\*
 
-## 📫 Connect with Me!
+\- Uses \*\*FastAPI\*\*, \*\*PostgreSQL\*\*, \*\*Redis\*\*, \*\*Docker\*\*, and \*\*PyTorch (BERT)\*\*
 
-🔗 [LinkedIn](https://www.linkedin.com/in/samudra-goswami/)\
-🐍 [GitHub](https://github.com/Samudra-G/)\
-✉️ Email: [samudramukhar@gmail.com](mailto\:samudramukhar@gmail.com)
+\- Designed for \*\*modular scaling\*\*, ready for future feature expansion
 
-💡 *Let's build something amazing together!* 🚀
+\### 🔹 \*\*SimpleBank API\*\* 💳 (Work In Progress)
 
+\- Building a \*\*secure banking API\*\* using \*\*Go\*\*, \*\*PostgreSQL\*\*, \*\*Redis\*\*, \*\*Docker\*\*, \*\*gRPC\*\*, \*\*PASETO\*\*, and \*\*AWS deployment\*\*
+
+\- Focused on \*\*production-grade security\*\*, \*\*role-based access\*\*, and \*\*scalable architecture\*\*
+
+📌 \*Explore my repos for more!\*
+
+\---
+
+\## ⚙️ Tech Stack
+
+\[!\[Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)\](https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white%29]%28https://www.python.org/))
+
+\[!\[Go]\([https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)\](https://golang.org/](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white%29]%28https://golang.org/))
+
+\[!\[TensorFlow]\([https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)\](https://www.tensorflow.org/](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white%29]%28https://www.tensorflow.org/))
+
+\[!\[PyTorch]\([https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)\](https://pytorch.org/](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white%29]%28https://pytorch.org/))
+
+\[!\[FastAPI]\([https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)\](https://fastapi.tiangolo.com/](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white%29]%28https://fastapi.tiangolo.com/))
+
+\[!\[Docker]\([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)\](https://www.docker.com/](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white%29]%28https://www.docker.com/))
+
+\[!\[PostgreSQL]\([https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)\](https://www.postgresql.org/](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white%29]%28https://www.postgresql.org/))
+
+\[!\[Redis]\([https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)\](https://redis.io/](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white%29]%28https://redis.io/))
+
+\[!\[AWS]\([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)\](https://aws.amazon.com/](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white%29]%28https://aws.amazon.com/))
+
+\[!\[gRPC]\([https://img.shields.io/badge/gRPC-326CE5?style=for-the-badge\&logo=grpc\&logoColor=white)\](https://grpc.io/](https://img.shields.io/badge/gRPC-326CE5?style=for-the-badge&logo=grpc&logoColor=white%29]%28https://grpc.io/))
+
+\[!\[Docker Compose]\([https://img.shields.io/badge/Docker%20Compose-2563EB?style=for-the-badge\&logo=docker\&logoColor=white)\](https://docs.docker.com/compose/](https://img.shields.io/badge/Docker%20Compose-2563EB?style=for-the-badge&logo=docker&logoColor=white%29]%28https://docs.docker.com/compose/))
+
+\---
+
+\## 📫 Connect with Me!
+
+🔗 \[LinkedIn]\([https://www.linkedin.com/in/samudra-goswami/](https://www.linkedin.com/in/samudra-goswami/)) &#x20;
+
+🐍 \[GitHub]\([https://github.com/Samudra-G/](https://github.com/Samudra-G/)) &#x20;
+
+✉️ \[[samudramukhar@gmail.com](mailto:samudramukhar@gmail.com)]\(mailto:[samudramukhar@gmail.com](mailto:samudramukhar@gmail.com))
+
+💡 \*Let's build something amazing together!\* 🚀
