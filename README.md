@@ -4,7 +4,7 @@
 
 I'm an **aspiring Data Scientist & AI Developer** passionate about **machine learning, scalable backend systems**, and **practical AI deployment**. My work focuses on designing **efficient data pipelines**, deploying **containerized microservices**, and integrating **advanced AI techniques** into usable applications.
 
-### 🔹 Core Expertise:
+### 🔹 Core Expertise
 
 * **Machine Learning & Deep Learning** (TensorFlow, PyTorch, Scikit-Learn, Transformers)
 * **Data Analysis & Visualization** (Pandas, NumPy, Power BI, Tableau)
@@ -38,6 +38,8 @@ I'm an **aspiring Data Scientist & AI Developer** passionate about **machine lea
 
 ## ⚙️ Tech Stack
 
+<span style="font-size:18px">
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)](https://golang.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)
@@ -49,6 +51,8 @@ I'm an **aspiring Data Scientist & AI Developer** passionate about **machine lea
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://aws.amazon.com/)
 [![gRPC](https://img.shields.io/badge/gRPC-326CE5?style=for-the-badge\&logo=grpc\&logoColor=white)](https://grpc.io/)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2563EB?style=for-the-badge\&logo=docker\&logoColor=white)](https://docs.docker.com/compose/)
+
+</span>
 
 ---
 
